@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'pinger/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "pinger"
+  spec.name          = "simple_pinger"
   spec.version       = Pinger::VERSION
   spec.authors       = ["Mark Chavez"]
   spec.email         = ["markchav3z@gmail.com"]
